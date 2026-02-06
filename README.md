@@ -1,1 +1,5 @@
-# parser-for-.csv
+# Запуск 
+Через console.py
+
+# Примечание
+- Используется  встроенный пакет Python под Windows
